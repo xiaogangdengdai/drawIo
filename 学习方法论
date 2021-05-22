@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-22T00:55:43.936Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="ulJTRGvqo2DSgPPcSl_P" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-22T01:28:35.385Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="-YEu8VG1wDmhaY8uXVz5" version="14.7.0" type="github">
   <diagram id="9BCV8CDyxnjv3iFe3Us9" name="Page-1">
-    <mxGraphModel dx="2215" dy="1923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2215" dy="3092" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -45,7 +45,7 @@
           <mxGeometry x="340" y="1300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UzQXt8o73pmGxdXeuDgO-4" value="听不懂也要听，甚至直接从最难的地方入手" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="270" y="-130" width="180" height="80" as="geometry" />
+          <mxGeometry x="260" y="-50" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UzQXt8o73pmGxdXeuDgO-6" value="所学的知识点一定要通过各种方式彻底搞懂，就像烧开水，一次直接烧到沸腾，否则就需要反复烧，浪费时间浪费精力&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="100" y="360" width="320" height="120" as="geometry" />
@@ -64,6 +64,114 @@
         </mxCell>
         <mxCell id="UzQXt8o73pmGxdXeuDgO-21" value="一定要复习，否则学过的知识就会像熊瞎子采玉米，像小猫钓鱼，像傻小子看画。" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-110" y="840" width="320" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="UzQXt8o73pmGxdXeuDgO-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UzQXt8o73pmGxdXeuDgO-23" target="UzQXt8o73pmGxdXeuDgO-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UzQXt8o73pmGxdXeuDgO-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UzQXt8o73pmGxdXeuDgO-23" target="UzQXt8o73pmGxdXeuDgO-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UzQXt8o73pmGxdXeuDgO-23" value="自创地铁学习法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UzQXt8o73pmGxdXeuDgO-24" value="只要开始学习，就把自己想象成坐上地铁了。坐地铁2号线转1号线的过程，恰巧是一个番茄钟，所以每次都会感觉效率很高" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="420" y="-480" width="280" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="UzQXt8o73pmGxdXeuDgO-26" value="完美主义害死人，千万别再想留大块时间学习。一是工作加班不可能会有大块时间学习，二是辞职在家的时候会充满焦虑根本学不下去，也不知道学什么，即使学会了，也可能技术很快被淘汰了，参考（eruka，histrix）等技术。见缝插针的找时间学习才是王道。" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="-460" width="420" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="UzQXt8o73pmGxdXeuDgO-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UzQXt8o73pmGxdXeuDgO-29" target="UzQXt8o73pmGxdXeuDgO-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UzQXt8o73pmGxdXeuDgO-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UzQXt8o73pmGxdXeuDgO-29" target="UzQXt8o73pmGxdXeuDgO-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UzQXt8o73pmGxdXeuDgO-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UzQXt8o73pmGxdXeuDgO-29" target="UzQXt8o73pmGxdXeuDgO-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UzQXt8o73pmGxdXeuDgO-29" value="自创&lt;br&gt;工作学习法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="250" y="-970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UzQXt8o73pmGxdXeuDgO-30" value="提高工作效率，百分之百的注意力投入到工作中。前期争取8个小时内完成自己的工作任务。有些细节先不要深挖，先完成再完美。" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="440" y="-1140" width="260" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="UzQXt8o73pmGxdXeuDgO-32" value="工作中遇上的问题，随时记录，利用加班时间找出问题的最优解，使项目更加完美。利用加班时间把工作中所涉及到的技术深入学习，达到源码级别的学习。准备技术分享。" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="-1169" width="260" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="UzQXt8o73pmGxdXeuDgO-33" value="工作中学习到的东西才是最有价值的" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-800" width="260" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="UzQXt8o73pmGxdXeuDgO-37" value="学习方法论及心得领悟" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#ffcccc;strokeColor=#36393d;fontSize=32;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-220" y="-1650" width="360" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="UzQXt8o73pmGxdXeuDgO-38" value="" style="line;strokeWidth=1;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="-1310" width="2030" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="UzQXt8o73pmGxdXeuDgO-39" value="" style="line;strokeWidth=1;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="-570" width="2830" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="UzQXt8o73pmGxdXeuDgO-40" value="" style="line;strokeWidth=1;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="-100" width="1590" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="UzQXt8o73pmGxdXeuDgO-41" value="" style="line;strokeWidth=1;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="270" width="1340" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="UzQXt8o73pmGxdXeuDgO-42" value="" style="line;strokeWidth=1;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="1030" width="1380" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="UzQXt8o73pmGxdXeuDgO-43" value="" style="line;strokeWidth=1;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="1730" width="1110" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="UzQXt8o73pmGxdXeuDgO-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="UzQXt8o73pmGxdXeuDgO-44" target="UzQXt8o73pmGxdXeuDgO-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UzQXt8o73pmGxdXeuDgO-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="UzQXt8o73pmGxdXeuDgO-44" target="UzQXt8o73pmGxdXeuDgO-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UzQXt8o73pmGxdXeuDgO-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="UzQXt8o73pmGxdXeuDgO-44" target="UzQXt8o73pmGxdXeuDgO-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UzQXt8o73pmGxdXeuDgO-44" value="复习策略" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="324" y="2150" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UzQXt8o73pmGxdXeuDgO-45" value="学习时涉及到的重要知识点，进行手机截图到相册或者电脑截图放到印象笔记，定期进行巩固。这个过程不怕慢，关于复习，慢就是快" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1900" width="330" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="UzQXt8o73pmGxdXeuDgO-46" value="软件这行不像数学或物理需要多高的智商，只要肯下功夫就能成为高手。多实战，多敲代码，多用印象笔记记录笔记，多用drawio进行画图。只有自己能清晰的归纳总结出来，知识才是自己的。否则几天就又忘记了，还得重新学。学习二遍太浪费时间，心态也容易崩溃。" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="1880" width="610" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="UzQXt8o73pmGxdXeuDgO-47" value="经历了这么多，自己辛苦付出赚来的钱，花着才踏实。我也不适合做其他的行业，技术工作生涯还有30年，全力奔跑，实现自己的价值。只要学不死，就往死里学。大目标、从头做、十倍好" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="10" y="2350" width="590" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="UzQXt8o73pmGxdXeuDgO-51" value="" style="line;strokeWidth=1;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="2600" width="1250" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="UzQXt8o73pmGxdXeuDgO-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="UzQXt8o73pmGxdXeuDgO-52" target="UzQXt8o73pmGxdXeuDgO-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UzQXt8o73pmGxdXeuDgO-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="UzQXt8o73pmGxdXeuDgO-52" target="UzQXt8o73pmGxdXeuDgO-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UzQXt8o73pmGxdXeuDgO-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="UzQXt8o73pmGxdXeuDgO-52" target="UzQXt8o73pmGxdXeuDgO-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UzQXt8o73pmGxdXeuDgO-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="UzQXt8o73pmGxdXeuDgO-52" target="UzQXt8o73pmGxdXeuDgO-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UzQXt8o73pmGxdXeuDgO-52" value="基础的重要性" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="150" y="2941.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UzQXt8o73pmGxdXeuDgO-53" value="数据结构和算法" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="150" y="2760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UzQXt8o73pmGxdXeuDgO-55" value="异常、线程、juc并发包" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="430" y="2923" width="260" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="UzQXt8o73pmGxdXeuDgO-57" value="jvm及类加载机制，bean拷贝，反射等" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="120" y="3110" width="180" height="58.5" as="geometry" />
+        </mxCell>
+        <mxCell id="UzQXt8o73pmGxdXeuDgO-59" value="设计模式和算法" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="2830" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
